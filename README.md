@@ -21,28 +21,29 @@ Agora, estou aqui no GitHub, pronta para me aprofundar no aprendizado, colaborar
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<div>
+<div align="center">
 <a href="https://github.com/grazielle-bastos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielle-bastos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=grazielle-bastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielle-bastos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=grazielle-bastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br><br>
 
+<div align="center">
+
+<img loading="lazy" src="https://private-user-images.githubusercontent.com/87940829/304782945-e980586b-ba55-466a-ae8c-0216401ecafd.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5MjQzMzAsIm5iZiI6MTcwNzkyNDAzMCwicGF0aCI6Ii84Nzk0MDgyOS8zMDQ3ODI5NDUtZTk4MDU4NmItYmE1NS00NjZhLWFlOGMtMDIxNjQwMWVjYWZkLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNFQxNTIwMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmE2N2E0N2QyMWYzMWM3Njk5OTNkOWJiZTZlMzZmZTdmNDA4MjllMDE1YmE0MDJmMDliYWMyM2IyYjc0YjkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YtUXeWt_zyinzHIKo3QFJY96K-Fz19Z0bQTBf2ynLR0" height="180" alt="Avatar Grazi">
 
 **Meus Contatos:**
 
-<div>
 <a href="www.instagram.com/gra_thay/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/graziellebastos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/graziellebastos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:grazielle1101@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
 <br>
-
-<img loading="lazy" src="https://private-user-images.githubusercontent.com/87940829/304606978-23fb2b76-fd57-433c-8027-1a26f7ab6bcf.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4Nzk1NjAsIm5iZiI6MTcwNzg3OTI2MCwicGF0aCI6Ii84Nzk0MDgyOS8zMDQ2MDY5NzgtMjNmYjJiNzYtZmQ1Ny00MzNjLTgwMjctMWEyNmY3YWI2YmNmLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNFQwMjU0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODA0MTQ2OTJkMWJmYTc1NDVjZGI0ODZjNWQ4ZGQ1ODMyNjVlZWFhYmZkNTY0YWZhMzRmN2QzYzEzNGI4MzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dYHTSBbmt6WOhFLnALxuelFDkSV18W-J_4o7Dc6xyAk" height="180">
           
 
 <!--
