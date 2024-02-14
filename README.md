@@ -41,6 +41,8 @@ Agora, estou aqui no GitHub, pronta para me aprofundar no aprendizado, colaborar
 <a href="https://www.linkedin.com/in/graziellebastos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:grazielle1101@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/grazielle-bastos/grazielle-bastos/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
