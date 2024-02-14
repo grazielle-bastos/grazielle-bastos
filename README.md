@@ -34,15 +34,15 @@ Agora, estou aqui no GitHub, pronta para me aprofundar no aprendizado, colaborar
 
 **Meus Contatos:**
 
-<img loading="lazy" src="https://private-user-images.githubusercontent.com/87940829/304606978-23fb2b76-fd57-433c-8027-1a26f7ab6bcf.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4Nzk1NjAsIm5iZiI6MTcwNzg3OTI2MCwicGF0aCI6Ii84Nzk0MDgyOS8zMDQ2MDY5NzgtMjNmYjJiNzYtZmQ1Ny00MzNjLTgwMjctMWEyNmY3YWI2YmNmLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNFQwMjU0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODA0MTQ2OTJkMWJmYTc1NDVjZGI0ODZjNWQ4ZGQ1ODMyNjVlZWFhYmZkNTY0YWZhMzRmN2QzYzEzNGI4MzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dYHTSBbmt6WOhFLnALxuelFDkSV18W-J_4o7Dc6xyAk" height="180">
-
 <div>
 <a href="www.instagram.com/gra_thay/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/graziellebastos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:grazielle1101@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/grazielle-bastos/grazielle-bastos/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+<img loading="lazy" src="https://private-user-images.githubusercontent.com/87940829/304606978-23fb2b76-fd57-433c-8027-1a26f7ab6bcf.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4Nzk1NjAsIm5iZiI6MTcwNzg3OTI2MCwicGF0aCI6Ii84Nzk0MDgyOS8zMDQ2MDY5NzgtMjNmYjJiNzYtZmQ1Ny00MzNjLTgwMjctMWEyNmY3YWI2YmNmLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNFQwMjU0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODA0MTQ2OTJkMWJmYTc1NDVjZGI0ODZjNWQ4ZGQ1ODMyNjVlZWFhYmZkNTY0YWZhMzRmN2QzYzEzNGI4MzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dYHTSBbmt6WOhFLnALxuelFDkSV18W-J_4o7Dc6xyAk" height="180">
           
 
 <!--
