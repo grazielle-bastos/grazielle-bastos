@@ -4,7 +4,7 @@ Em 2022, dei meus primeiros passos na área de Tecnologia da Informação e, ap�
 
 Com formação em Recursos Humanos e recém-graduada em Análise e Desenvolvimento de Sistemas, trago uma bagagem única que combina habilidades técnicas com experiência anterior em Recrutamento e Seleção, e Atendimento ao Cliente. 💼✨
 
-Em 2020, um acidente me fez repensar minha trajetória, mas também foi durante a pandemia de Covid-19, enquanto trabalhava remotamente, que minha paixão pela tecnologia foi intensificada. Foi então que, em 2021, decidi ingressar no curso de Análise e Desenvolvimento de Sistemas e me vi em um mundo de possibilidades.
+Em 2020 um acidente, que me tornou pessoa com deficiência (PCD), me levou a repensar minha trajetória. Durante a pandemia de Covid-19, trabalhando remotamente, intensifiquei minha paixão pela tecnologia. Em 2021, decidi ingressar no curso de Análise e Desenvolvimento de Sistemas, abrindo um novo mundo de possibilidades.
 
 Agora, estou aqui no GitHub, pronta para me aprofundar no aprendizado, colaborar com a comunidade e compartilhar ideias! 💬✨ Vamos codar juntos e tornar o mundo da tecnologia ainda mais incrível? 😊🚀
 
