@@ -1,6 +1,6 @@
 E aí, pessoal! 👋 Sou a Grazi, uma entusiasta da tecnologia e uma novata apaixonada por códigos! 💻✨
 
-Há aproximadamente 2 anos e meio dei meus primeiros passos em TI e, após começar minha jornada nos níveis iniciais da carreira em tecnologia, no Suporte Técnico e Operações, tive uma oportunidade incrível para me aprofundar no universo dos Sistemas. Desde então, venho me dedicando com muito interesse aos estudos em Programação.
+Há aproximadamente 3 anos dei meus primeiros passos em TI e, após começar minha jornada nos níveis iniciais da carreira em tecnologia, no Suporte Técnico e Operações, tive uma oportunidade incrível para me aprofundar no universo dos Sistemas. Desde então, venho me dedicando com muito interesse aos estudos em Programação.
 
 Com formação em Recursos Humanos e recém-graduada em Análise e Desenvolvimento de Sistemas, trago uma bagagem única que combina habilidades técnicas com experiência anterior em Recrutamento e Seleção, e Atendimento ao Cliente. 💼✨
 
@@ -20,7 +20,6 @@ Agora, estou aqui no GitHub, pronta para me aprofundar no aprendizado, colaborar
   <td><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
   <td><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></td>
   <td><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/></td>
-  <td><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/></td>
   </tr>          
 </table>
 
