@@ -1,4 +1,4 @@
-E aí, pessoal! 👋 Sou a Grazi, uma entusiasta da tecnologia e uma novata apaixonada por códigos! 💻✨
+E aí, pessoal! 👋 Sou a Grazi, uma entusiasta da tecnologia e interessada no constante aprendizado! 💻✨
 
 Há aproximadamente 3 anos dei meus primeiros passos em TI e, após começar minha jornada nos níveis iniciais da carreira em tecnologia, no Suporte Técnico e Operações, tive uma oportunidade incrível para me aprofundar no universo dos Sistemas. Desde então, venho me dedicando com muito interesse aos estudos em Programação.
 
